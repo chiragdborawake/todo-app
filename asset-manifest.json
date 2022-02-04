@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chiragdborawake/todo-app/static/css/main.fdc4a6aa.css",
-    "main.js": "/chiragdborawake/todo-app/static/js/main.39669be5.js",
-    "static/js/787.4f8cc74e.chunk.js": "/chiragdborawake/todo-app/static/js/787.4f8cc74e.chunk.js",
-    "index.html": "/chiragdborawake/todo-app/index.html",
-    "main.fdc4a6aa.css.map": "/chiragdborawake/todo-app/static/css/main.fdc4a6aa.css.map",
-    "main.39669be5.js.map": "/chiragdborawake/todo-app/static/js/main.39669be5.js.map",
-    "787.4f8cc74e.chunk.js.map": "/chiragdborawake/todo-app/static/js/787.4f8cc74e.chunk.js.map"
+    "main.css": "/todo-app/static/css/main.fdc4a6aa.css",
+    "main.js": "/todo-app/static/js/main.1b85c726.js",
+    "static/js/787.4f8cc74e.chunk.js": "/todo-app/static/js/787.4f8cc74e.chunk.js",
+    "index.html": "/todo-app/index.html",
+    "main.fdc4a6aa.css.map": "/todo-app/static/css/main.fdc4a6aa.css.map",
+    "main.1b85c726.js.map": "/todo-app/static/js/main.1b85c726.js.map",
+    "787.4f8cc74e.chunk.js.map": "/todo-app/static/js/787.4f8cc74e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdc4a6aa.css",
-    "static/js/main.39669be5.js"
+    "static/js/main.1b85c726.js"
   ]
 }
